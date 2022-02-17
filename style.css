@@ -5,18 +5,18 @@
      
 }
 
-body{
-    
-        
-    background-size: cover ;
+   html {    
+    background: url('ab.gif') no-repeat right fixed;     
+    background-size: cover;
 }
+
 .form{
-    width: 450px;
+    width: 400px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
-    background: green;
+    background: transparent;
     color: black;
     border-radius: 18px;
 
