@@ -5,11 +5,10 @@
      
 }
 
-   html {    
-    background: url('ab.gif') no-repeat right fixed;     
-    background-size: cover;
-}
-
+   img{
+       width: 100vw;
+       height: 100vh;
+   }
 .form{
     width: 400px;
     top: 50%;
